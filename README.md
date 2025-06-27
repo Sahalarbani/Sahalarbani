@@ -3,38 +3,48 @@
   
   <h1>Halo! Saya Sahal Arbani 👋</h1>
   <p>
-    <em>Membangun dunia digital satu baris kode pada satu waktu.</em>
+    <em>NGAPAIN BANG</em>
   </p>
 </div>
 
 ---
 
 ### 🔍 Tentang Saya:
-- 🧠 Sedang belajar ...
-- 💡 Tertarik pada ...
+- 👨‍💻 Saya tertarik pada ...
+- 🚀 Saat ini sedang belajar ...
 - 🤝 Mencari rekan kolaborasi untuk ...
 - 📞 Hubungi saya via: 
-  - [GitHub](https://github.com/Sahalarbani ) | 
-  - Email: sahalpanglima@gmail.com*(ganti dengan email Anda)*
+  - [GitHub](https://github.com/Sahalarbani )
+  - Email: sahal@example.com *(ganti dengan email Anda)*
 
 ---
 
-### 🔧 Tech Stack Saya:
+### 📦 Repository Yang Saya Pin:
 
-**Bahasa Pemrograman:**
-- Python
-- JavaScript
-- Java *(opsional)*
+> Berikut adalah beberapa proyek penting yang sedang atau pernah saya kerjakan:
 
-**Tools & Framework:**
-- Git
-- React.js
-- Node.js
-- Django
+<!-- Ganti dengan repo nyata jika sudah ada -->
+1. **Contoh Proyek** – Deskripsi singkat tentang proyek  
+   Teknologi: Python, Flask  
+   ![Screenshot](path/to/screenshot.png)
+
+2. **Contoh Proyek 2** – Deskripsi singkat  
+   Teknologi: React.js, Firebase  
+   ![Screenshot](path/to/screenshot2.png)
 
 ---
 
-### 📊 Statistik GitHub:
+### 📊 Statistik Kontribusi (1 Tahun Terakhir):
+
+<div align="center">
+  <a href="https://github.com/Sahalarbani ">
+    <img src="https://ghchart.rshah.org/Sahalarbani " alt="Statistik Kontribusi GitHub" />
+  </a>
+</div>
+
+---
+
+### 📈 Statistik Profil GitHub:
 
 <div align="center">
   <a href="https://github.com/Sahalarbani ">
@@ -55,11 +65,4 @@
 
 ---
 
-### 🛠️ Proyek Unggulan:
-_(Akan segera hadir... Stay tuned!)_
-
----
-
 > "NGAPAIN BANG"
-
----
