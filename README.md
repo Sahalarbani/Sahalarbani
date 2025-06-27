@@ -72,13 +72,47 @@
 
 ---
 
-<!-- PINNED PROJECTS (OPTIONAL MANUAL LIST) -->
+<!-- RELEASES -->
 
-<h3>🚀 Highlight Projects</h3>
+<h3>📦 Latest Releases</h3>
 
-- 💡 [Project Name 1](#) – Deskripsi singkat + link demo
-- 🌐 [Project Name 2](#) – Misalnya: “Browser buatan sendiri berbasis Android”
-- 🧠 [Smart Launcher Sketchware](#) – Launcher dengan widget jam & cuaca
+- 🗓️ **[Nama Proyek Release v1.0.0](https://github.com/Sahalarbani/nama-repo/releases)** — Catatan rilis pertama, fitur-fitur awal selesai.
+- 🔁 **[Nama Proyek v2.1.0](https://github.com/Sahalarbani/nama-repo/releases/tag/v2.1.0)** — Update besar: dark mode, login, dsb.
+
+> 💡 Gunakan tab [Releases](https://github.com/Sahalarbani?tab=repositories&q=&type=&language=&sort=stargazers) untuk melihat semua versi lengkap.
+
+---
+
+<!-- PACKAGES -->
+
+<h3>📦 GitHub Packages</h3>
+
+- 🧱 **[sahalarbani/dev-tools](https://github.com/Sahalarbani/dev-tools/packages)** – Package CLI sederhana untuk dev workflow.
+- 🌐 **[sketch-launcher-utils](https://github.com/Sahalarbani/sketch-launcher-utils/packages)** – Utilities khusus Sketchware project.
+
+> ✨ Lihat semua di tab [Packages](https://github.com/Sahalarbani?tab=packages)
+
+---
+
+<!-- DEPLOYMENTS -->
+
+<h3>🚀 Deployments</h3>
+
+- 🌍 [https://sahal-launcher.web.app](https://sahal-launcher.web.app) – Launcher Web berbasis Firebase Hosting.
+- 🧠 [https://smartnotes.sahalarbani.site](#) – Web Notetaking dengan Login + Real-time Sync.
+- 📱 [APK Release](https://github.com/Sahalarbani/...) – Launcher Android versi ringan.
+
+> Hosting: Firebase · Vercel · GitHub Pages
+
+---
+
+<!-- PINNED PROJECTS -->
+
+<h3>🌟 Highlight Projects</h3>
+
+- 💡 [YouTube WebView App (Sketchware)](https://github.com/Sahalarbani/...) – Bisa fullscreen, login, YouTube background.
+- 🧠 [Smart Launcher with Widgets](https://github.com/Sahalarbani/...) – Jam, cuaca, aplikasi grid & swipeable homescreen.
+- 🔒 [Admin Dashboard Firebase](https://github.com/Sahalarbani/...) – Real-time data, login admin, kontrol user.
 
 ---
 
