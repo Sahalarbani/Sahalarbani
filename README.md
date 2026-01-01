@@ -1,123 +1,26 @@
-<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm SAHAL ARBANI</h1>
+<h3 align="center">I am a person who likes to try new things</h3>
 
-<h1 align="center">Hi 👋, I'm Sahal Arbani</h1>
-<h3 align="center">Full-stack Developer | Open Source Enthusiast | UI/UX Explorer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahalarbani&label=Profile%20views&color=0e75b6&style=flat" alt="sahalarbani" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahalarbani&label=Profile%20views&color=blueviolet&style=flat" alt="Sahalarbani" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahalarbani" alt="sahalarbani" /></a> </p>
+
+- 📫 How to reach me **sahalpanglima@gmail.com**
+
+- ⚡ Fun fact **I made the code using AI**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sahal arbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahal arbani" height="30" width="40" /></a>
+<a href="https://instagram.com/sahal arbani413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahal arbani413" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sahal arbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sahal arbani" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<!-- BIO -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahalarbani&show_icons=true&locale=en&layout=compact" alt="sahalarbani" /></p>
 
-- 🔭 Currently working on: **Full-stack Web Projects & UI/UX apps**
-- 🌱 Currently learning: **TypeScript, Next.js, TailwindCSS, Firebase**
-- 👨‍💻 All of my projects are available at: [github.com/Sahalarbani](https://github.com/Sahalarbani)
-- 💬 Ask me about: **Web development, UI design, Open Source**
-- 📫 How to reach me: [Email](mailto:sahalarbani@gmail.com) · [LinkedIn](#) · [Website](#)
-- ⚡ Fun fact: I love turning ideas into real interactive products 💡
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahalarbani&show_icons=true&locale=en" alt="sahalarbani" /></p>
 
----
-
-<!-- BADGES -->
-
-<h3>🛠️ My Favorite Tech Stack</h3>
-
-**Languages**  
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database & Auth**  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-<!-- STATS -->
-
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahalarbani&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahalarbani&layout=compact&theme=radical&hide_border=true" alt="langs" />
-</p>
-
----
-
-<!-- GITHUB STREAK -->
-
-<h3>🔥 GitHub Streak</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sahalarbani&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
----
-
-<!-- RELEASES -->
-
-<h3>📦 Latest Releases</h3>
-
-- 🗓️ **[Nama Proyek Release v1.0.0](https://github.com/Sahalarbani/nama-repo/releases)** — Catatan rilis pertama, fitur-fitur awal selesai.
-- 🔁 **[Nama Proyek v2.1.0](https://github.com/Sahalarbani/nama-repo/releases/tag/v2.1.0)** — Update besar: dark mode, login, dsb.
-
-> 💡 Gunakan tab [Releases](https://github.com/Sahalarbani?tab=repositories&q=&type=&language=&sort=stargazers) untuk melihat semua versi lengkap.
-
----
-
-<!-- PACKAGES -->
-
-<h3>📦 GitHub Packages</h3>
-
-- 🧱 **[sahalarbani/dev-tools](https://github.com/Sahalarbani/dev-tools/packages)** – Package CLI sederhana untuk dev workflow.
-- 🌐 **[sketch-launcher-utils](https://github.com/Sahalarbani/sketch-launcher-utils/packages)** – Utilities khusus Sketchware project.
-
-> ✨ Lihat semua di tab [Packages](https://github.com/Sahalarbani?tab=packages)
-
----
-
-<!-- DEPLOYMENTS -->
-
-<h3>🚀 Deployments</h3>
-
-- 🌍 [https://sahal-launcher.web.app](https://sahal-launcher.web.app) – Launcher Web berbasis Firebase Hosting.
-- 🧠 [https://smartnotes.sahalarbani.site](#) – Web Notetaking dengan Login + Real-time Sync.
-- 📱 [APK Release](https://github.com/Sahalarbani/...) – Launcher Android versi ringan.
-
-> Hosting: Firebase · Vercel · GitHub Pages
-
----
-
-<!-- PINNED PROJECTS -->
-
-<h3>🌟 Highlight Projects</h3>
-
-- 💡 [YouTube WebView App (Sketchware)](https://github.com/Sahalarbani/...) – Bisa fullscreen, login, YouTube background.
-- 🧠 [Smart Launcher with Widgets](https://github.com/Sahalarbani/...) – Jam, cuaca, aplikasi grid & swipeable homescreen.
-- 🔒 [Admin Dashboard Firebase](https://github.com/Sahalarbani/...) – Real-time data, login admin, kontrol user.
-
----
-
-<!-- FOOTER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=120&section=footer"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahalarbani&" alt="sahalarbani" /></p>
