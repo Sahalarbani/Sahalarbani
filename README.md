@@ -38,12 +38,11 @@
 </a>
 <br/>
 <br/>
-
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahalarbani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahalarbani&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Sahalarbani&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="streak graph" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahalarbani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="top languages" />
 </div>
